@@ -25,7 +25,7 @@ Team Members :
 |-----|-----|
 | Data Engineer | Muhsyam Fahriel Septiansyah |
 | Data Analyst | Jimli Dwi Assiddiqi |
-| Project Manager | Satriyo Wicaksono Yunan M |
+| Project Manager | Satriyo Wicaksono Yunan Mubarok |
 
 End Users :
 
