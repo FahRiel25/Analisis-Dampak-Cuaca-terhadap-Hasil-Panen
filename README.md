@@ -18,7 +18,7 @@
 
 ### 1.2 Stakeholders
 
-- **Project Owner**: Dinas Perhubungan DKI Jakarta
+- **Project Owner**: 
 - **Team Members**:
   - Data Engineer: Muhsyam Fahriel Septiansyah/244311021
   - Data Analyst: Jimli Dwi Assidiqi/
