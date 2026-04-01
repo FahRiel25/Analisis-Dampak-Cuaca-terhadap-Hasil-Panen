@@ -21,7 +21,6 @@
   - **Dataset Terintegrasi**: Sebuah clean dataset yang menggabungkan parameter cuaca dan hasil produksi padi per wilayah.
   - **Dashboard Visualisasi**: Grafik tren produksi vs cuaca yang mudah dipahami oleh stakeholder.
   - **Laporan Analisis**: Dokumen temuan tentang bulan atau kondisi cuaca apa yang paling signifikan memengaruhi penurunan atau peningkatan hasil panen.
-  - **Rekomendasi**: Panduan singkat bagi kelompok tani mengenai antisipasi cuaca berdasarkan pola historis.
 - **Timeline**: 
 
 ### 1.2 Stakeholders
