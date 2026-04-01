@@ -21,7 +21,7 @@
   - **Dataset Terintegrasi**: Sebuah clean dataset yang menggabungkan parameter cuaca dan hasil produksi padi per wilayah.
   - **Dashboard Visualisasi**: Grafik tren produksi vs cuaca yang mudah dipahami oleh stakeholder.
   - **Laporan Analisis**: Dokumen temuan tentang bulan atau kondisi cuaca apa yang paling signifikan memengaruhi penurunan atau peningkatan hasil panen.
-- **Timeline**: 
+- **Timeline**: 1 semester (6 bulan)
 
 ### 1.2 Stakeholders
 
@@ -53,10 +53,10 @@
   - Completeness: 
   - Accuracy: High (verified by BPS)
   - Consistency: Good (format standar)
-  - Timeliness: 
+  - Timeliness: 2018 - 2024
     
 
-### 2.3 Public APIs
+### 2.2 Public APIs
 
 #### Source Details
 - **API Name**: Open Meteo
