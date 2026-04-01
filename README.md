@@ -11,9 +11,17 @@
 
 ### 1.1 Project Overview
 
-- **Tujuan Project**: 
-- **Scope Project**: 
-- **Expected Outcomes**: 
+- **Tujuan Project**: **Penelitian ini bertujuan untuk menganalisis hubungan antara curah hujan dan suhu rata-rata dengan perubahan produksi padi di berbagai kabupaten/kota di Jawa Timur. Selain itu, penelitian ini juga menggabungkan data statistik dari BPS dengan data cuaca historis dari API publik melalui sebuah alur pengolahan data. Hasil analisis diharapkan dapat memberikan wawasan yang membantu pengambilan keputusan dalam menghadapi risiko pertanian akibat perubahan iklim.**
+- **Scope Project**:
+  - **Wilayah Geografis**: 38 Kabupaten/Kota di Provinsi Jawa Timur.
+  - **Rentang Waktu**: Data historis dari Januari 2018 hingga Desember 2024.
+  - **Sumber Data**: Data produksi padi dari BPS Jawa Timur dan data cuaca (suhu & presipitasi) dari Open Meteo API.
+  - **Teknis**: Proses Extract, Transform, Load (ETL), pembersihan data (data cleaning), analisis korelasi statistik, dan pembuatan visualisasi tren.
+- **Expected Outcomes**:
+  - **Dataset Terintegrasi**: Sebuah clean dataset yang menggabungkan parameter cuaca dan hasil produksi padi per wilayah.
+  - **Dashboard Visualisasi**: Grafik tren produksi vs cuaca yang mudah dipahami oleh stakeholder.
+  - **Laporan Analisis**: Dokumen temuan tentang bulan atau kondisi cuaca apa yang paling signifikan memengaruhi penurunan atau peningkatan hasil panen.
+  - **Rekomendasi**: Panduan singkat bagi kelompok tani mengenai antisipasi cuaca berdasarkan pola historis.
 - **Timeline**: 
 
 ### 1.2 Stakeholders
